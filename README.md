@@ -19,8 +19,8 @@ BitMEX注文ツール　BitMEXOrder.exeは、注文をより簡単に行うツ�
   
 <a href="http://coinsap.php.xdomain.jp/BitMEXorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。
 
-**※Bybit版は<a href="https://github.com/GitHubCoinSap/BybitOrder.exe" target="_blank">こちら</a>　　
-　　
+**※Bybit版は<a href="https://github.com/GitHubCoinSap/BybitOrder.exe" target="_blank">こちら</a>  
+  
 動作環境  
 ・Windows10　64bit  
 ・.NET Framework 4.8以降  
