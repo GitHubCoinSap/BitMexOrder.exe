@@ -23,7 +23,7 @@ BitMEX注文ツール　BitMEXOrder.exeは、注文をより簡単に行うツ�
   
 動作環境  
 ・Windows10　64bit  
-・.NET Framework 4.8以降  
+・.NET Framework 4.7.2以降  
 
 リリース  
 V1.0.0.0  2020.01.20  
