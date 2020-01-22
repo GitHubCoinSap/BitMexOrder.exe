@@ -14,10 +14,10 @@ BitMEX注文ツール　BitMEXOrder.exeは、注文をより簡単に行うツ�
   ※アフィリエイトID　下図の場合は　wixcmS
   ![image](https://user-images.githubusercontent.com/43275193/72883037-f378b280-3d46-11ea-99ac-8be3a18bb7bf.png)  
   
-<a href="http://coinsap.php.xdomain.jp/BitMEXorder/rule.html" target="_blank">利用規約</a>を読んだ上で、BitMEXOrder_X.X.X.X.zipを
+<a href="http://coinsap.php.xdomain.jp/bitmexorder/rule.html" target="_blank">利用規約</a>を読んだ上で、BitMEXOrder_X.X.X.X.zipを
 <a href="https://github.com/GitHubCoinSap/BitMEXOrder.exe/releases/latest" target="_blank">ダウンロード</a>して使用してください。
   
-<a href="http://coinsap.php.xdomain.jp/BitMEXorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。
+<a href="http://coinsap.php.xdomain.jp/bitmexorder/index.html" target="_blank">操作説明書</a>は同梱していませんので、リンクより参照してください。
 
 **※Bybit版は<a href="https://github.com/GitHubCoinSap/BybitOrder.exe" target="_blank">こちら</a>**  
   
