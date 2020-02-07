@@ -1,5 +1,7 @@
 # BitMEXOrder.exe
 ![image](https://user-images.githubusercontent.com/43275193/73112186-c5ff5500-3f50-11ea-8018-b6ce6de0cc9a.png)  
+  
+**<a href="https://github.com/GitHubCoinSap/BitMEXOrder.exe/releases/latest" target="_blank">ダウンロード</a>**  
 BitMEX注文ツール　BitMEXOrder.exeは、注文をより簡単に行うツールです。  
   
 ・ツール購入方法  
