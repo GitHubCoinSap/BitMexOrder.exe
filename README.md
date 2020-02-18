@@ -3,6 +3,8 @@
   
 **<a href="https://github.com/GitHubCoinSap/BitMEXOrder.exe/releases/latest" target="_blank">ダウンロードはここから</a>**  
   
+**<a href="https://www.youtube.com/watch?v=EHruFNfvnxo" target="_blank">自動追従動画はここから（Bybit版ですが動作は同じ）</a>**  
+   
 BitMEX注文ツール　BitMEXOrder.exeは、注文をより簡単に行うツールです。  
   
 ・ツール購入方法  
